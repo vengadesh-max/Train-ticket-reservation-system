@@ -44,8 +44,10 @@ Upon booking a ticket, details will be saved in bookings.csv.
 Note
 When a ticket is booked, all relevant booking details, including the passenger's information, compartment choice, and payment method, will be recorded in an Excel-like format in the bookings.csv file.
 
-Contribution
-Contributions are welcome! If you have suggestions for improvements or features, feel free to create a pull request.
+## 🚀 Setup Instructions
+![Screenshot (1296)](![Screenshot (1466)](https://github.com/user-attachments/assets/ff407266-185f-46b3-b31b-8a4f7aa1d305)
+)
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
